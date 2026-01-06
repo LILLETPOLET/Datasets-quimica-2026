@@ -1,0 +1,4 @@
+formulation_id,tipo_TR,fase_elastomerica_pct,carga_pct,plastificante_pct,T_inyeccion,tiempo_ciclo
+NEW_TR_01,TR_A,48,17,6,185,42
+NEW_TR_02,TR_B,40,22,4,190,40
+NEW_TR_03,TR_C,52,14,9,180,45
