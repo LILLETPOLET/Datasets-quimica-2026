@@ -54,3 +54,18 @@ Este dataset corresponde a uno de los capítulos del libro y se emplea para ilus
 
 - `perdida_propiedades_pct`: pérdida de propiedades mecánicas (%)
 - `fallo`: indicador de fallo del material (SI / NO)
+
+## Dataset de predicción
+
+Además del dataset principal de entrenamiento, se incluye un conjunto de nuevas formulaciones de poliuretano destinado a la evaluación predictiva mediante modelos de IA.
+
+### Archivo
+- `PU_nuevas_formulaciones.csv`
+
+### Descripción
+Este archivo contiene formulaciones de PU no ensayadas experimentalmente, utilizadas para ilustrar la predicción del riesgo de fallo mediante modelos entrenados (KNIME, ROBERT y Python).
+
+La variable objetivo `fallo` no está incluida, ya que constituye el resultado a predecir.
+
+### Uso
+El dataset puede emplearse directamente como entrada de predicción en los flujos de trabajo descritos en el libro.
