@@ -1,0 +1,6 @@
+formulation_id,tipo_poliol,indice_NCO,plastificante_pct,densidad_g_cm3,humedad_ensayo_pct,tiempo_envejecimiento_h
+PU_NEW_01,poliester,1.02,12.0,0.48,70,168
+PU_NEW_02,mixto,0.95,8.0,0.52,90,336
+PU_NEW_03,polieter,1.08,15.5,0.4,70,168
+PU_NEW_04,poliester,0.92,5.0,0.6,90,336
+PU_NEW_05,mixto,1.1,18.0,0.38,70,168
